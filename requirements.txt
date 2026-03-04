@@ -1,0 +1,9 @@
+# Codebase Onboarding Agent
+# Core dependencies
+gitpython>=3.1.40
+rich>=13.7.0
+click>=8.1.7
+pathspec>=0.12.1
+
+# Optional: For AI-powered analysis (if OPENAI_API_KEY is set)
+openai>=1.12.0
